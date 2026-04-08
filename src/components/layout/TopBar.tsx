@@ -6,7 +6,7 @@ const TopBar = () => (
       <div className="flex items-center gap-4">
         <span className="flex items-center gap-1.5"><Phone className="size-3" /> +1 (800) 555-0199</span>
         <span className="w-px h-3 bg-gray-700" />
-        <span className="flex items-center gap-1.5"><Mail className="size-3" /> info@strux.com</span>
+        <span className="flex items-center gap-1.5"><Mail className="size-3" /> info@infinityconstructionconsultancy.com</span>
         <span className="w-px h-3 bg-gray-700" />
         <span className="flex items-center gap-1.5"><MapPin className="size-3" /> 450 Steel Ave, New York, NY</span>
       </div>

@@ -31,7 +31,7 @@ const Contact = () => {
               <div className="space-y-6 mt-8">
                 <div className="flex gap-4 items-start"><MapPin className="text-brand-yellow size-5 shrink-0 mt-0.5" /><div><p className="text-gray-400 text-sm">450 Steel Avenue<br />New York, NY 10001</p></div></div>
                 <div className="flex gap-4 items-start"><Phone className="text-brand-yellow size-5 shrink-0 mt-0.5" /><p className="text-gray-400 text-sm">+1 (800) 555-0199</p></div>
-                <div className="flex gap-4 items-start"><Mail className="text-brand-yellow size-5 shrink-0 mt-0.5" /><p className="text-gray-400 text-sm">info@strux.com</p></div>
+                <div className="flex gap-4 items-start"><Mail className="text-brand-yellow size-5 shrink-0 mt-0.5" /><p className="text-gray-400 text-sm">info@infinityconstructionconsultancy.com</p></div>
               </div>
               <div className="bg-brand-yellow/10 border-l-4 border-brand-yellow p-4 mt-8">
                 <p className="text-gray-300 text-sm">Office Hours: Mon – Fri, 8:00 AM – 6:00 PM</p>

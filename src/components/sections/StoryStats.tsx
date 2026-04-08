@@ -35,7 +35,7 @@ const StoryStats = () => {
               Two Decades Of Building The Extraordinary
             </h2>
             <p className="text-brand-muted text-base leading-relaxed mt-6">
-              From a single regional office to a nationally recognized construction powerhouse, STRUX has consistently raised the bar in project delivery, safety, and client satisfaction.
+              From a single regional office to a nationally recognized construction powerhouse, Infinity Construction Consultancy has consistently raised the bar in project delivery, safety, and client satisfaction.
             </p>
           </AnimateOnScroll>
 

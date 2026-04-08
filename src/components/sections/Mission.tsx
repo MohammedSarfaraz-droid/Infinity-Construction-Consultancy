@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 const columns = [
   {
     title: "Who We Are",
-    text: "Founded in 2004, STRUX has grown from a regional contractor to a nationally recognized construction force, delivering landmark infrastructure and architectural icons across the country.",
+    text: "Founded in 2004, Infinity Construction Consultancy has grown from a regional contractor to a nationally recognized construction force, delivering landmark infrastructure and architectural icons across the country.",
     cta: "Our Story",
   },
   {

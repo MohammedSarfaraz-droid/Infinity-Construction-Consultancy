@@ -15,7 +15,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <span className="w-3 h-3 bg-brand-yellow" />
-              <span className="text-2xl font-black text-white">STRUX</span>
+              <span className="text-2xl font-black text-white">Infinity Construction Consultancy</span>
             </div>
             <p className="text-gray-500 text-sm mt-4 leading-relaxed">
               Premier construction company delivering landmark infrastructure and architectural excellence since 2004.
@@ -41,7 +41,7 @@ const Footer = () => {
             <div className="space-y-3 text-gray-500 text-sm">
               <p><MapPin className="size-4 inline mr-2 text-brand-yellow" />450 Steel Avenue, New York, NY 10001</p>
               <p><Phone className="size-4 inline mr-2 text-brand-yellow" />+1 (800) 555-0199</p>
-              <p><Mail className="size-4 inline mr-2 text-brand-yellow" />info@strux.com</p>
+              <p><Mail className="size-4 inline mr-2 text-brand-yellow" />info@infinityconstructionconsultancy.com</p>
             </div>
           </div>
 
@@ -64,7 +64,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-16 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <span className="text-gray-600 text-xs">© 2024 STRUX Construction. All rights reserved.</span>
+          <span className="text-gray-600 text-xs">© 2024 Infinity Construction Consultancy. All rights reserved.</span>
           <div className="flex gap-4 text-gray-600 text-xs">
             <a href="#" className="hover:text-brand-yellow transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-brand-yellow transition-colors">Terms</a>

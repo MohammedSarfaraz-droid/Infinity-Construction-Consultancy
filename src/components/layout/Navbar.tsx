@@ -16,7 +16,7 @@ const Navbar = () => {
         <div className="section-container flex items-center justify-between h-16">
           <a href="#" className="flex items-center gap-2">
             <span className="w-3 h-3 bg-brand-yellow" />
-            <span className="text-2xl font-black text-brand-text dark:text-white tracking-tight">STRUX</span>
+            <span className="text-2xl font-black text-brand-text dark:text-white tracking-tight">Infinity Construction Consultancy</span>
           </a>
 
           <div className="hidden lg:flex items-center gap-8">

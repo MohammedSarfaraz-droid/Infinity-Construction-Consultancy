@@ -23,7 +23,7 @@ const WhyUs = () => (
       <div className="bg-brand-gray dark:bg-[#22242a] p-12 lg:p-20 flex flex-col justify-center transition-theme">
         <AnimateOnScroll>
           <SectionLabel text="Why Us" />
-          <h2 className="text-3xl lg:text-4xl heading-style text-brand-text dark:text-white">The STRUX Difference</h2>
+          <h2 className="text-3xl lg:text-4xl heading-style text-brand-text dark:text-white">The Infinity Construction Consultancy Difference</h2>
 
           <div className="mt-10 space-y-8">
             {features.map((f) => {

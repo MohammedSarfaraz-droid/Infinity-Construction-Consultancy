@@ -5,19 +5,19 @@ import { motion } from "framer-motion";
 
 const testimonials = [
   {
-    quote: "STRUX delivered our 12-storey headquarters 3 weeks ahead of schedule. Their on-site team's professionalism was extraordinary.",
+    quote: "Infinity Construction Consultancy delivered our 12-storey headquarters 3 weeks ahead of schedule. Their on-site team's professionalism was extraordinary.",
     name: "Marcus Webb",
     role: "CEO, Veridian Capital",
     initials: "MW",
   },
   {
-    quote: "The bridge project was technically complex. STRUX handled every challenge with engineering rigor and clear communication.",
+    quote: "The bridge project was technically complex. Infinity Construction Consultancy handled every challenge with engineering rigor and clear communication.",
     name: "Priya Nair",
     role: "Director, National Infrastructure Authority",
     initials: "PN",
   },
   {
-    quote: "We have worked with many contractors. STRUX stands alone in their commitment to quality and zero-compromise safety culture.",
+    quote: "We have worked with many contractors. Infinity Construction Consultancy stands alone in their commitment to quality and zero-compromise safety culture.",
     name: "James Thornton",
     role: "Operations Lead, DeltaPort Logistics",
     initials: "JT",

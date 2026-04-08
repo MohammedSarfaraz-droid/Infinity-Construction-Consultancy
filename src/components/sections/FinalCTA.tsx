@@ -22,7 +22,7 @@ const FinalCTA = () => {
           transition={{ duration: 0.6, ease: "easeOut", delay: 0.2 }}
           className="text-brand-muted text-lg mt-6"
         >
-          From concept to completion — STRUX delivers.
+          From concept to completion — Infinity Construction Consultancy delivers.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}

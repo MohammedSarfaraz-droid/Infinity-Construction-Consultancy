@@ -14,10 +14,10 @@ const About = () => (
     <div className="section-container">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
         <AnimateOnScroll>
-          <SectionLabel text="About STRUX" />
+          <SectionLabel text="About Infinity Construction Consultancy" />
           <h2 className="text-3xl lg:text-4xl heading-style text-brand-text dark:text-white">A Legacy Built In Steel And Concrete</h2>
           <p className="text-brand-muted text-base leading-relaxed mt-6">
-            For two decades, STRUX has been at the forefront of construction innovation. Our portfolio spans commercial towers, civil infrastructure, and landmark architectural commissions that shape skylines and communities alike.
+            For two decades, Infinity Construction Consultancy has been at the forefront of construction innovation. Our portfolio spans commercial towers, civil infrastructure, and landmark architectural commissions that shape skylines and communities alike.
           </p>
 
           <div className="mt-10 space-y-6">
